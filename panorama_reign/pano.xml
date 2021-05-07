@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.0.6" apprev="17336">
+  <panorama hideabout="1" id="node1">
+    <input tile1url="images/Panorama_A_o_1.jpg" tilescale="1.008258" levelingroll="0" levelingpitch="0" prev1url="images/Panorama_A_o_preview_1.jpg" prev2url="images/Panorama_A_o_preview_2.jpg" prev5url="images/Panorama_A_o_preview_5.jpg" tile3url="images/Panorama_A_o_3.jpg" prev4url="images/Panorama_A_o_preview_4.jpg" prev0url="images/Panorama_A_o_preview_0.jpg" tilesize="1211" tile0url="images/Panorama_A_o_0.jpg" tile2url="images/Panorama_A_o_2.jpg" tile5url="images/Panorama_A_o_5.jpg" prev3url="images/Panorama_A_o_preview_3.jpg" tile4url="images/Panorama_A_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-45" pan="-180" fov="45"/>
+      <max tilt="45" fovfisheye="360" pan="180" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" description="" longitude="" comment="" copyright="" info="" datetime="2021" source="" author="Fernando Winkelmann" customnodeid="" title="Box Crossfit Reign" tags=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" bordercolor="0x000000" width="180" textalpha="1" height="20" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-12.05" target="" description="" url="{node2}" skinid="ht_node" pan="-344.42" id="Point01" title="Box Crossfit Reign"/>
+      <hotspot tilt="-15.04" target="" description="" url="images/crossfitboxreign_product_placement.jpeg" skinid="ht_image" pan="-277" id="Point02" title=""/>
+      <hotspot tilt="-11.13" target="" description="" url="images/crossfitboxreign_counter.jpeg" skinid="ht_image" pan="-314.51" id="Point03" title=""/>
+      <hotspot tilt="-19.78" target="" description="" url="images/crossfitboxreign_entrance.jpeg" skinid="ht_image" pan="-206.95" id="Point04" title=""/>
+      <hotspot tilt="-7.56" target="" description="" url="images/crossfitboxreign_product_freezer.jpeg" skinid="ht_image" pan="-63.85" id="Point05" title=""/>
+      <hotspot tilt="-27.21" target="" description="" url="images/crossfitboxreign_product_sampling.jpeg" skinid="ht_image" pan="-74.45" id="Point06" title=""/>
+      <hotspot tilt="-27.32" target="" description="" url="images/crossfitboxreign_sofa.jpeg" skinid="ht_image" pan="-172.55" id="Point07" title=""/>
+      <hotspot tilt="-5.5" target="" description="" url="{node3}" skinid="ht_node" pan="-348.57" id="Point08" title="Box Crossfit Reign"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomspeed="2" zoomin="0" enabled="1" softedge="0" blendtime="0.5" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" contextprojections="0" sensitivity="8" lockedkeyboard="0" hideabout="1" invertwheel="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="1" invertcontrol="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input tile1url="images/Panorama_B_o_1.jpg" tilescale="1.008258" levelingroll="0" levelingpitch="0" prev1url="images/Panorama_B_o_preview_1.jpg" prev2url="images/Panorama_B_o_preview_2.jpg" prev5url="images/Panorama_B_o_preview_5.jpg" tile3url="images/Panorama_B_o_3.jpg" prev4url="images/Panorama_B_o_preview_4.jpg" prev0url="images/Panorama_B_o_preview_0.jpg" tilesize="1211" tile0url="images/Panorama_B_o_0.jpg" tile2url="images/Panorama_B_o_2.jpg" tile5url="images/Panorama_B_o_5.jpg" prev3url="images/Panorama_B_o_preview_3.jpg" tile4url="images/Panorama_B_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-45" pan="-180" fov="45"/>
+      <max tilt="45" fovfisheye="360" pan="180" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" description="" longitude="" comment="" copyright="" info="" datetime="2021" source="" author="Fernando Winkelmann" customnodeid="" title="Box Crossfit Reign" tags="images"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" bordercolor="0x000000" width="180" textalpha="1" height="20" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-9.63" target="" description="" url="{node1}" skinid="ht_node" pan="-156.62" id="Point01" title="Box Crossfit Reign"/>
+      <hotspot tilt="-1.89" target="" description="" url="images/crossfitboxreign_barbells_and_yoke.jpeg" skinid="ht_image" pan="-246.54" id="Point02" title=""/>
+      <hotspot tilt="-22.27" target="" description="" url="images/crossfitboxreign_crates_and_dumbbels.jpeg" skinid="ht_image" pan="-283.92" id="Point03" title=""/>
+      <hotspot tilt="-10.88" target="" description="" url="images/crossfitboxreign_crates_and_strenghtballs.jpeg" skinid="ht_image" pan="-95.91" id="Point04" title=""/>
+      <hotspot tilt="-0.97" target="" description="" url="images/crossfitboxreign_customized_wall.jpeg" skinid="ht_image" pan="-343.96" id="Point05" title=""/>
+      <hotspot tilt="-7.85" target="" description="" url="images/crossfitboxreign_dumbbells_and_sandbag.jpeg" skinid="ht_image" pan="-51.63" id="Point06" title=""/>
+      <hotspot tilt="14.23" target="" description="" url="images/crossfitboxreign_industrial_fan.jpeg" skinid="ht_image" pan="-311.28" id="Point07" title=""/>
+      <hotspot tilt="-9.14" target="" description="" url="images/crossfitboxreign_kettlebells_and_sandbag.jpeg" skinid="ht_image" pan="-66.5" id="Point08" title=""/>
+      <hotspot tilt="-4.79" target="" description="" url="images/crossfitboxreign_lockers.jpeg" skinid="ht_image" pan="-113.75" id="Point09" title=""/>
+      <hotspot tilt="-8.28" target="" description="" url="images/crossfitboxreign_mats_and_logo.jpeg" skinid="ht_image" pan="-4.67" id="Point10" title=""/>
+      <hotspot tilt="-2.98" target="" description="" url="images/crossfitboxreign_panel_and_timer.jpeg" skinid="ht_image" pan="-215.4" id="Point11" title=""/>
+      <hotspot tilt="32.63" target="" description="" url="images/crossfitboxreign_reign_flags.jpeg" skinid="ht_image" pan="-76.49" id="Point12" title=""/>
+      <hotspot tilt="-13.04" target="" description="" url="images/crossfitboxreign_reign_ropes.jpeg" skinid="ht_image" pan="-350.04" id="Point13" title=""/>
+      <hotspot tilt="-21.19" target="" description="" url="images/crossfitboxreign_reign_stationary_bikes.jpeg" skinid="ht_image" pan="-75.73" id="Point14" title=""/>
+      <hotspot tilt="-1.37" target="" description="" url="images/crossfitboxreign_sandbag_and_crates.jpeg" skinid="ht_image" pan="-39.05" id="Point15" title=""/>
+      <hotspot tilt="-11.38" target="" description="" url="{node3}" skinid="ht_node" pan="-359.24" id="Point16" title="Box Crossfit Reign"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomspeed="2" zoomin="0" enabled="1" softedge="0" blendtime="0.5" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" contextprojections="0" sensitivity="8" lockedkeyboard="0" hideabout="1" invertwheel="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="1" invertcontrol="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input tile1url="images/Panorama_C_o_1.jpg" tilescale="1.008258" levelingroll="0" levelingpitch="0" prev1url="images/Panorama_C_o_preview_1.jpg" prev2url="images/Panorama_C_o_preview_2.jpg" prev5url="images/Panorama_C_o_preview_5.jpg" tile3url="images/Panorama_C_o_3.jpg" prev4url="images/Panorama_C_o_preview_4.jpg" prev0url="images/Panorama_C_o_preview_0.jpg" tilesize="1211" tile0url="images/Panorama_C_o_0.jpg" tile2url="images/Panorama_C_o_2.jpg" tile5url="images/Panorama_C_o_5.jpg" prev3url="images/Panorama_C_o_preview_3.jpg" tile4url="images/Panorama_C_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-45" pan="-180" fov="45"/>
+      <max tilt="45" fovfisheye="360" pan="180" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" description="" longitude="" comment="" copyright="" info="" datetime="2021" source="" author="Fernando Winkelmann" customnodeid="" title="Box Crossfit Reign" tags="images"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" bordercolor="0x000000" width="180" textalpha="1" height="20" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-10.56" target="" description="" url="{node2}" skinid="ht_node" pan="-180.21" id="Point02" title="Box Crossfit Reign"/>
+      <hotspot tilt="-5.39" target="" description="" url="{node1}" skinid="ht_node" pan="-169.13" id="Point03" title="Box Crossfit Reign"/>
+      <hotspot tilt="-1.67" target="" description="" url="images/crossfitboxreign_barbells_and_yoke.jpeg" skinid="ht_image" pan="-209.19" id="Point01" title=""/>
+      <hotspot tilt="-9.1" target="" description="" url="images/crossfitboxreign_crates_and_dumbbels.jpeg" skinid="ht_image" pan="-201.7" id="Point04" title=""/>
+      <hotspot tilt="-7.31" target="" description="" url="images/crossfitboxreign_crates_and_strenghtballs.jpeg" skinid="ht_image" pan="-142.56" id="Point05" title=""/>
+      <hotspot tilt="0.27" target="" description="" url="images/crossfitboxreign_customized_wall.jpeg" skinid="ht_image" pan="-324.92" id="Point06" title=""/>
+      <hotspot tilt="-8.15" target="" description="" url="images/crossfitboxreign_dumbbells_and_sandbag.jpeg" skinid="ht_image" pan="-109.73" id="Point07" title=""/>
+      <hotspot tilt="18.62" target="" description="" url="images/crossfitboxreign_industrial_fan.jpeg" skinid="ht_image" pan="-252.82" id="Point08" title=""/>
+      <hotspot tilt="-7.49" target="" description="" url="images/crossfitboxreign_kettlebells_and_sandbag.jpeg" skinid="ht_image" pan="-123.86" id="Point09" title=""/>
+      <hotspot tilt="-2.04" target="" description="" url="images/crossfitboxreign_lockers.jpeg" skinid="ht_image" pan="-146.85" id="Point10" title=""/>
+      <hotspot tilt="-23.27" target="" description="" url="images/crossfitboxreign_mats_and_logo.jpeg" skinid="ht_image" pan="-14.58" id="Point11" title=""/>
+      <hotspot tilt="-1.47" target="" description="" url="images/crossfitboxreign_panel_and_timer.jpeg" skinid="ht_image" pan="-196.7" id="Point12" title=""/>
+      <hotspot tilt="15.11" target="" description="" url="images/crossfitboxreign_reign_flags.jpeg" skinid="ht_image" pan="-161" id="Point13" title=""/>
+      <hotspot tilt="-36.87" target="" description="" url="images/crossfitboxreign_reign_ropes.jpeg" skinid="ht_image" pan="-227.78" id="Point14" title=""/>
+      <hotspot tilt="-9.73" target="" description="" url="images/crossfitboxreign_reign_stationary_bikes.jpeg" skinid="ht_image" pan="-151.31" id="Point15" title=""/>
+      <hotspot tilt="-2.17" target="" description="" url="images/crossfitboxreign_sandbag_and_crates.jpeg" skinid="ht_image" pan="-84.65" id="Point16" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomspeed="2" zoomin="0" enabled="1" softedge="0" blendtime="0.5" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" contextprojections="0" sensitivity="8" lockedkeyboard="0" hideabout="1" invertwheel="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="1" invertcontrol="1" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" description="" longitude="" comment="" copyright="" info="" datetime="" source="" author="" customnodeid="" title="" tags=""/>
+  </masternode>
+</tour>
